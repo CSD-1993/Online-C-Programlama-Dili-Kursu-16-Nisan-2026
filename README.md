@@ -1,4 +1,4 @@
-# Online C Programlama Dili Kursu - 17 Şubat 2025
+# Online C Programlama Dili Kursu - 17 Şubat 2026
 
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) tarafından __"Sistem Bilgisayar"__ iş birliği ile düzenlenmektedir.
